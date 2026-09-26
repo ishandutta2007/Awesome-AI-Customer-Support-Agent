@@ -1,78 +1,112 @@
-# Awesome-AI-Customer-Support-Agent
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Support-Agent"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Customer-Support-Agent?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Support-Agent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-## Top AI Customer Support Agent Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Customer Support Agent Banner" width="100%">
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI Helpdesk Agents, Automated Resolution, Omnichannel Support Bots, RAG over Help Centers & Human–AI Collaboration*  
-**Last updated: September 2026**
+# 🤖 Awesome AI Customer Support Agent
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Customer Support Agents**. These systems answer customer questions, resolve tickets, hand off to humans, and learn from help centers and past conversations—reducing volume while improving response quality.
+> **A curated ecosystem of SaaS platforms, RAG-powered helpdesk systems, and Open-Source projects for AI Customer Support Agents, Ticket Deflection, Omnichannel Service Bots, and Human–AI Collaboration.**
 
-**Examples** include Intercom Fin, Zendesk AI, Freshdesk Freddy AI, Salesforce Agentforce, Ada, Forethought, Decagon, Parloa, Sierra AI, and Ultimate.ai (the category leaders).
+---
 
-**Open-source emphasis**: Full enterprise AI support agents are largely commercial. Strong open foundations include **Chatwoot** (omnichannel inbox + AI), **Botpress**, **Rasa**, and **Dify**/RAG builders for custom support agents. This section lists every significant relevant project found.
+## 💡 Overview & SEO Keywords
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Welcome to the definitive index for **AI Customer Support Agents**! Whether you are looking for enterprise turnkey SaaS platforms like **Salesforce Agentforce**, **Intercom Fin**, and **Sierra AI**, or self-hosted open-source stacks like **Chatwoot**, **Dify**, and **Rasa**, this repository tracks the top solutions enabling autonomous customer resolution, knowledge retrieval (RAG), ticket routing, and seamless human agent handoffs.
 
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+* **Key Search Terms:** `AI Customer Support Agent`, `AI Helpdesk Automation`, `Automated Ticket Deflection`, `RAG over Help Center`, `Omnichannel Customer Support Chatbot`, `Intercom Fin Alternatives`, `Open Source Helpdesk AI`, `Conversational AI Customer Service`.
 
-## SaaS/Hosted Platforms
+---
 
-- **[Intercom Fin](https://www.intercom.com/fin)**  
-  AI customer service agent integrated into Intercom—resolves conversations from help content and hands off seamlessly to human agents.
+## 📑 Table of Contents
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Key Frameworks & Architecture Stack](#%EF%B8%8F-key-frameworks--architecture-stack)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-- **[Zendesk AI, Freshdesk Freddy AI](https://www.zendesk.com/)**  
-  Native AI agents and copilots inside major helpdesks—ticket deflection, suggested replies, and automated resolution workflows.
+---
 
-- **[Salesforce Agentforce](https://www.salesforce.com/agentforce/)**  
-  Enterprise AI agents for service (and sales) on the Salesforce platform—grounded in CRM and knowledge data.
+## 🏢 SaaS & Commercial Platforms
 
-- **[Ada, Forethought, Decagon, Sierra AI, Parloa, Ultimate.ai](https://www.ada.cx/)**  
-  Specialized AI customer support platforms focused on autonomous resolution, voice/chat agents, and enterprise-grade automation.
+> 📊 **Market Size & Industry Dynamics:**  
+> The global AI customer support & helpdesk automation market is estimated at **~$12.5 Billion** and is projected to surpass **~$35 Billion by 2030** (growing at a CAGR >23%). The sector is currently **moderately fragmented**, with legacy enterprise CRM incumbents (*Salesforce, Zendesk, Freshworks*) actively competing against hyper-growth AI-native unicorns (*Sierra AI, Decagon, Intercom Fin, Ada*) for autonomous customer resolution dominance.
 
-- **[Other commercial AI support agent platforms](https://www.intercom.com/fin)**  
-  Additional solutions for chatbot-to-agent workflows, knowledge-grounded answers, and multi-channel support automation.
+The following commercial solutions provide turnkey, enterprise-grade autonomous resolution, omnichannel integrations, and direct grounding in company knowledge bases:
 
-## Open-Source GitHub Projects
+| 🏢 Product / Platform | 💰 Company Valuation / Revenue | 💵 Starting Price | 🎁 Free Tier / Trial Limit | ⚡ Key Features & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Agentforce](https://www.salesforce.com/agentforce/)** | **~$300 Billion** *(Public: CRM)* | **$2.00** / conversation *(or $125/user/mo Service Cloud)* | **30-day free trial** with Service Cloud sandbox | Enterprise autonomous AI service agents grounded in Salesforce Data Cloud & CRM workflows. |
+| **[Zendesk AI](https://www.zendesk.com/)** *(incl. Ultimate.ai)* | **~$10.2 Billion** *(Acquired)* | **$55.00** / agent / mo *(Growth)* + **$1.50** / AI resolution | **14-day free trial** *(no credit card required)* | Native ticketing copilot, macro recommendations, and autonomous conversation bots via Ultimate.ai engine. |
+| **[Sierra AI](https://sierra.ai/)** | **~$4.5 Billion** *(Unicorn)* | **$2.00** / resolved interaction *(Outcome-based)* | **30-day custom enterprise pilot** upon request | Founded by Bret Taylor; focuses on hyper-authentic brand voice and complex enterprise resolution logic. |
+| **[Intercom Fin](https://www.intercom.com/fin)** | **~$3.6 Billion** / **$400M ARR** *(Acquired by SF)* | **$0.99** / successful resolution *(+$39/seat/mo base)* | **14-day free trial** *(includes 50 free Fin resolutions)* | Industry benchmark for instant RAG answers over help centers with zero setup & human agent handover. |
+| **[Freshdesk Freddy AI](https://www.freshworks.com/freshdesk/)** | **~$3.5 Billion** *(Public: FRSH)* | **$15.00** / agent / mo + **$29.00** / 100 Freddy sessions | **14-day free trial** *(up to 10 agents, full features)* | Freshworks AI copilot for ticket summaries, tone adjustment, and automated support session resolution. |
+| **[Ada](https://www.ada.cx/)** | **~$1.2 Billion** *(Unicorn)* | **$1.50** / resolution *(Min commit ~$1,000/mo)* | **14-day sandbox demo trial** upon request | Enterprise omnichannel AI agent specializing in complex customer reasoning, voice, and multi-language support. |
+| **[Decagon](https://decagon.ai/)** | **~$1.0 Billion** *(Unicorn)* | **$1.00** / resolved ticket *(Min commit ~$2,000/mo)* | **14-day custom proof-of-concept sandbox** | AI customer service agent trained on past support tickets and internal workflows for high resolution rates. |
+| **[Forethought](https://forethought.ai/)** | **~$500 Million** *($90M+ Raised)* | **$1.50** / resolved ticket *(Base from ~$1,000/mo)* | **14-day sandbox pilot** upon request | Generative AI suite (Solve, Triage, Assist) for automated routing, ticket resolution, and agent workflow aid. |
+| **[Parloa](https://www.parloa.com/)** | **~$300 Million** *($98M+ Raised)* | **$0.50** / interaction or **$0.15** / min *(Base ~$1,500/mo)* | **14-day developer sandbox trial** | AI agent platform tailored for enterprise phone customer service, voice AI, and live contact centers. |
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)**  
-  Leading open-source (MIT) omnichannel customer support platform—live chat, email, social, shared inbox, plus Captain AI for automated answers and suggested replies; self-hostable alternative to Intercom/Zendesk.
+---
 
-- **[Botpress](https://github.com/botpress/botpress)**  
-  Open-source AI agent platform with visual builder, knowledge bases, and channel integrations—suitable for building custom support agents (MIT for open editions).
+## 🔓 Open-Source GitHub Projects
 
-- **[Rasa](https://github.com/RasaHQ/rasa)**  
-  Open-source (Apache 2.0) conversational AI framework for fully custom dialogue and NLU—still used when teams need deep control over support bot behavior.
+These self-hostable open-source projects, RAG builders, and inbox frameworks empower engineering teams to build fully custom AI customer support agents without vendor lock-in.
 
-- **[Dify & Flowise for support agents](https://github.com/langgenius/dify)**  
-  Open visual AI workflow builders used to create RAG-powered support bots over help centers and ticket history, deployable as APIs or widgets.
+*Sorted by GitHub Star Count (Descending):*
 
-- **[Typebot, OpenAssistantGPT-style builders](https://github.com/baptisteArno/typebot.io)**  
-  Open conversational form and chatbot builders that can power FAQ and lead-support flows.
+| 📦 Repository / Project | ⭐ GitHub Stars | 📜 License | 🛠️ Tech Stack & Primary Customer Support Focus |
+| :--- | :---: | :---: | :--- |
+| **[langgenius/dify](https://github.com/langgenius/dify)** | <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="dify Stars"/></a> | Apache-2.0 | Visual LLM application builder & RAG engine used to deploy customer support bots over help centers. |
+| **[open-webui/open-webui](https://github.com/open-webui/open-webui)** | <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="open-webui Stars"/></a> | MIT | Extensible WebUI interface for self-hosted LLMs; popular for internal support agent assist & internal KB Q&A. |
+| **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** | <a href="https://github.com/Mintplex-Labs/anything-llm/stargazers"><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white" alt="anything-llm Stars"/></a> | MIT | Full-stack desktop/Docker AI application to turn support documentation & PDFs into instant RAG chatbots. |
+| **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** | <a href="https://github.com/FlowiseAI/Flowise/stargazers"><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white" alt="Flowise Stars"/></a> | MIT | Drag & drop UI for LangChain to build custom customer support workflows, ticket routers, and RAG agents. |
+| **[LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)** | <a href="https://github.com/LibreChat-AI/LibreChat/stargazers"><img src="https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white" alt="LibreChat Stars"/></a> | MIT | Enterprise-grade multi-model chat UI with agent capabilities, search, and knowledge base integration. |
+| **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** | <a href="https://github.com/chatchat-space/Langchain-Chatchat/stargazers"><img src="https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white" alt="Langchain-Chatchat Stars"/></a> | MIT | Offline RAG knowledge base QA system based on LangChain & Milvus for enterprise support desks. |
+| **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** | <a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="chatwoot Stars"/></a> | MIT | #1 open-source omnichannel customer support platform (Live chat, Email, WhatsApp) + Captain AI agent. |
+| **[labring/FastGPT](https://github.com/labring/FastGPT)** | <a href="https://github.com/labring/FastGPT/stargazers"><img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="FastGPT Stars"/></a> | Apache-2.0 | Knowledge base Q&A platform designed for fast, accurate self-hosted customer support bot deployments. |
+| **[activepieces/activepieces](https://github.com/activepieces/activepieces)** | <a href="https://github.com/activepieces/activepieces/stargazers"><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white" alt="activepieces Stars"/></a> | MIT | Open-source no-code workflow automation engine for routing support tickets, AI webhooks, and CRM sync. |
+| **[RasaHQ/rasa](https://github.com/RasaHQ/rasa)** | <a href="https://github.com/RasaHQ/rasa/stargazers"><img src="https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white" alt="rasa Stars"/></a> | Apache-2.0 | Open conversational AI framework for building enterprise-grade deterministic & generative support dialogues. |
+| **[botpress/botpress](https://github.com/botpress/botpress)** | <a href="https://github.com/botpress/botpress/stargazers"><img src="https://img.shields.io/github/stars/botpress/botpress?style=social&color=white" alt="botpress Stars"/></a> | AGPL-3.0 / Commercial | Developer platform for building, testing, and deploying custom AI support chatbots with visual flow builders. |
+| **[baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io)** | <a href="https://github.com/baptisteArno/typebot.io/stargazers"><img src="https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white" alt="typebot Stars"/></a> | AGPL-3.0 | Conversational builder for creating interactive customer triage forms, FAQ widgets, and support flows. |
+| **[papercups-io/papercups](https://github.com/papercups-io/papercups)** | <a href="https://github.com/papercups-io/papercups/stargazers"><img src="https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white" alt="papercups Stars"/></a> | MIT | Open-source customer messaging platform & live chat widget designed as a developer alternative to Intercom. |
+| **[getzep/zep](https://github.com/getzep/zep)** | <a href="https://github.com/getzep/zep/stargazers"><img src="https://img.shields.io/github/stars/getzep/zep?style=social&color=white" alt="zep Stars"/></a> | Apache-2.0 | Fast, scalable long-term memory store for AI support agents to remember customer history across sessions. |
+| **[dust-tt/dust](https://github.com/dust-tt/dust)** | <a href="https://github.com/dust-tt/dust/stargazers"><img src="https://img.shields.io/github/stars/dust-tt/dust?style=social&color=white" alt="dust Stars"/></a> | MIT | Custom AI assistant platform connected to company Notion, Slack, and Google Drive for team support assist. |
 
-- **[LibreChat / Open WebUI as internal support UIs](https://github.com/danny-avila/LibreChat)**  
-  Open multi-model chat interfaces sometimes adapted for internal agent-assist or knowledge Q&A.
+---
 
-- **[RAG + helpdesk connector projects](https://github.com/search?q=Chatwoot+AI+OR+support+bot+RAG+open+source)**  
-  Community integrations that connect open LLMs to Chatwoot, Zendesk-like APIs, or custom inboxes.
+## 🛠️ Key Frameworks & Architecture Stack
 
-- **[Cal.com / scheduling + support open stacks](https://github.com/search?q=open+source+helpdesk+OR+ticketing)**  
-  Open ticketing and engagement tools that pair with AI reply agents for full support workflows.
+When building custom production-grade AI support systems, developers combine:
+1. **Omnichannel Inbox Layer:** [Chatwoot](https://github.com/chatwoot/chatwoot) or [Papercups](https://github.com/papercups-io/papercups) for handling live customer chats, emails, and WhatsApp messages.
+2. **AI Agent Brain & RAG:** [Dify](https://github.com/langgenius/dify), [Flowise](https://github.com/FlowiseAI/Flowise), or [FastGPT](https://github.com/labring/FastGPT) connected to vector databases indexing help center articles & past tickets.
+3. **Conversational Memory:** [Zep](https://github.com/getzep/zep) for persistent customer session context and personalization.
+4. **Human Handoff & Escalation:** Custom webhook rules and agent co-pilot suggestions when confidence scores fall below threshold.
 
-### Additional Strong Open-Source Options
+---
 
-- **Full support desk + AI**: Chatwoot with Captain or external AI via Agent Bot webhooks.
-- **Custom agent brain**: Botpress or Rasa when dialogue control matters more than turnkey helpdesk.
-- **RAG support bots**: Dify/Flowise over docs and FAQs, then embed or connect to inbox.
-- **Composable stacks**: Chatwoot inbox + Dify/Botpress agent + human escalation rules.
-- Commercial platforms still lead in polished autonomous resolution rates, brand voice training, and enterprise SLAs.
+## 🤝 How to Contribute
 
-**Frameworks for building custom systems**:  
-**Chatwoot** is the strongest open omnichannel support foundation.  
-**Botpress**, **Rasa**, and **Dify** provide the AI agent layer.  
-Commercial products (Intercom Fin, Zendesk AI, Ada, Sierra, Decagon, Salesforce Agentforce, etc.) deliver higher autonomous resolution and native helpdesk depth.  
-Many teams self-host Chatwoot for inbox control and add open or
+Contributions are highly appreciated! To submit a new SaaS platform or Open-Source project:
+1. Fork the repository.
+2. Add your project under the appropriate section in **alphabetical** or **star-sorted** order.
+3. Include verified pricing, free trial details, or star counts.
+4. Open a Pull Request with a clear title and description.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Customer-Support-Agent&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Customer-Support-Agent&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+*This list is maintained for informational and educational purposes. Product pricing, funding valuations, and free tier terms are subject to change by respective owners. Please refer to official vendor websites for current commercial terms.*
