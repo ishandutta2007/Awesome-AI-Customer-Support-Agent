@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Support-Agent"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Customer-Support-Agent?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Support-Agent"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Customer-Support-Agent?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Customer-Support-Agent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -60,9 +60,9 @@ The following commercial solutions provide turnkey, enterprise-grade autonomous 
 
 These self-hostable open-source projects, RAG builders, and inbox frameworks empower engineering teams to build fully custom AI customer support agents without vendor lock-in.
 
-*Sorted by GitHub Star Count (Descending):*
+*Sorted by GitHub Stars_Count (Descending):*
 
-| 📦 Repository / Project | ⭐ GitHub Stars | 📜 License | 🛠️ Tech Stack & Primary Customer Support Focus |
+| 📦 Repository / Project | ⭐ GitHub_Stars | 📜 License | 🛠️ Tech Stack & Primary Customer Support Focus |
 | :--- | :---: | :---: | :--- |
 | **[langgenius/dify](https://github.com/langgenius/dify)** | <a href="https://github.com/langgenius/dify/stargazers"><img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="dify Stars"/></a> | Apache-2.0 | Visual LLM application builder & RAG engine used to deploy customer support bots over help centers. |
 | **[open-webui/open-webui](https://github.com/open-webui/open-webui)** | <a href="https://github.com/open-webui/open-webui/stargazers"><img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white" alt="open-webui Stars"/></a> | MIT | Extensible WebUI interface for self-hosted LLMs; popular for internal support agent assist & internal KB Q&A. |
@@ -97,7 +97,7 @@ When building custom production-grade AI support systems, developers combine:
 Contributions are highly appreciated! To submit a new SaaS platform or Open-Source project:
 1. Fork the repository.
 2. Add your project under the appropriate section in **alphabetical** or **star-sorted** order.
-3. Include verified pricing, free trial details, or star counts.
+3. Include verified pricing, free trial details, or Stars_Counts.
 4. Open a Pull Request with a clear title and description.
 
 ---
