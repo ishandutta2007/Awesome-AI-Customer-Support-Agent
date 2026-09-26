@@ -30,6 +30,7 @@ Welcome to the definitive index for **AI Customer Support Agents**! Whether you 
 - [🛠️ Key Frameworks & Architecture Stack](#%EF%B8%8F-key-frameworks--architecture-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📈 Star History](#-star-history)
+- [💖 Support & Buy Me a Coffee](#-support--buy-me-a-coffee)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -104,6 +105,20 @@ Contributions are highly appreciated! To submit a new SaaS platform or Open-Sour
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Customer-Support-Agent&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Customer-Support-Agent&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Buy Me a Coffee
+
+Thank you for exploring **Awesome AI Customer Support Agent**! If this repository has helped your work, research, or product decisions, please consider supporting its development:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🔀 **Fork & Share** with your colleagues, engineering teams, and community.
+- ☕ **Buy Me a Coffee / Sponsor:** Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/></a>
+</p>
 
 ---
 
