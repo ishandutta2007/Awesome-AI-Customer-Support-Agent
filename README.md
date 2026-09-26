@@ -1,6 +1,6 @@
 # Awesome-AI-Customer-Support-Agent
 
-# Top AI Customer Support Agent Ecosystem
+## Top AI Customer Support Agent Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI Helpdesk Agents, Automated Resolution, Omnichannel Support Bots, RAG over Help Centers & Human–AI Collaboration*  
